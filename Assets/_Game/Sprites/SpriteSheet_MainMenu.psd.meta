@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: d5f92d10ccf50f44895362ac4aa80156
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7632200214022769379
+    second: SpriteSheet_MainMenu_0
+  - first:
+      213: 3930341575938753081
+    second: SpriteSheet_MainMenu_1
+  - first:
+      213: -2461404984928184627
+    second: SpriteSheet_MainMenu_2
+  - first:
+      213: -1031003525171849434
+    second: SpriteSheet_MainMenu_3
+  - first:
+      213: 2667764386132426937
+    second: SpriteSheet_MainMenu_4
+  - first:
+      213: -2057289609406332989
+    second: SpriteSheet_MainMenu_5
+  - first:
+      213: -6726803667833572727
+    second: SpriteSheet_MainMenu_6
+  - first:
+      213: -6163101688923690629
+    second: SpriteSheet_MainMenu_7
+  - first:
+      213: -6438750851412989021
+    second: SpriteSheet_MainMenu_8
+  - first:
+      213: -2594442316483219146
+    second: SpriteSheet_MainMenu_9
+  - first:
+      213: 4612277096382288829
+    second: SpriteSheet_MainMenu_10
+  - first:
+      213: -9177010228981898239
+    second: SpriteSheet_MainMenu_11
+  - first:
+      213: -7816323987494829499
+    second: SpriteSheet_MainMenu_12
+  - first:
+      213: -3178054740383309384
+    second: SpriteSheet_MainMenu_13
+  - first:
+      213: -6511505282451967093
+    second: SpriteSheet_MainMenu_14
+  - first:
+      213: -2047707496726386041
+    second: SpriteSheet_MainMenu_15
+  - first:
+      213: -1028493116427146793
+    second: SpriteSheet_MainMenu_16
+  - first:
+      213: -6097042618255710064
+    second: SpriteSheet_MainMenu_17
+  - first:
+      213: 335904635127773571
+    second: SpriteSheet_MainMenu_18
+  - first:
+      213: 1971649393739015200
+    second: SpriteSheet_MainMenu_19
+  - first:
+      213: 9050473788896515819
+    second: SpriteSheet_MainMenu_20
+  - first:
+      213: 4258568977333488545
+    second: SpriteSheet_MainMenu_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet_MainMenu_Background
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1076
+        width: 1918
+        height: 972
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eacc7358a50be960800000000000000
+      internalID: 7632200214022769379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_MainMenu_Kuma
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 548
+        width: 437
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93247c7e6d06b8630800000000000000
+      internalID: 3930341575938753081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shape_Play
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 932
+        width: 346
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b08cd3239dc50520800000000000000
+      internalID: 2667764386132426937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_MainMenu_Tabua
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 157
+        width: 905
+        height: 880
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfbb3f000a0373e0800000000000000
+      internalID: -2057289609406332989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Plus
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 850
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9823cf844b795a2a0800000000000000
+      internalID: -6726803667833572727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Circle
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 855
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79e71ddaa3487aa0800000000000000
+      internalID: -6163101688923690629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shape_Menu
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 802
+        width: 193
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abe840f636f4a6a0800000000000000
+      internalID: -6438750851412989021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Home
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 709
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631b6c78570befbd0800000000000000
+      internalID: -2594442316483219146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Settings
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 703
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3598f0599120040800000000000000
+      internalID: 4612277096382288829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Menu
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 707
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104686191d5b4a080800000000000000
+      internalID: -9177010228981898239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradient_Orange
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 608
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389b2376c7f59a400800000000000000
+      internalID: 335904635127773571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_MainMenu_Title1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 19
+        width: 977
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be61924a5fdb99d70800000000000000
+      internalID: 9050473788896515819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet_MainMenu_Title2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 25
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab06790ce9791b30800000000000000
+      internalID: 4258568977333488545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d531d46a726d2794590298bbfe9a35e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gradient_Orange: 335904635127773571
+      Icon_Circle: -6163101688923690629
+      Icon_Home: -2594442316483219146
+      Icon_Menu: -9177010228981898239
+      Icon_Plus: -6726803667833572727
+      Icon_Settings: 4612277096382288829
+      Shape_Menu: -6438750851412989021
+      Shape_Play: 2667764386132426937
+      SpriteSheet_MainMenu_Background: 7632200214022769379
+      SpriteSheet_MainMenu_Kuma: 3930341575938753081
+      SpriteSheet_MainMenu_Tabua: -2057289609406332989
+      SpriteSheet_MainMenu_Title1: 9050473788896515819
+      SpriteSheet_MainMenu_Title2: 4258568977333488545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
